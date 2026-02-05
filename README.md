@@ -1,2 +1,9 @@
 # CodeAlpha_Task4
-Python Programming Task 4
+- THIRD TASK FROM Python Programming TASKS ON CodeAlpha by Trouzine Mohammed.
+# WHAT I USE:
+- A list (Bot) containing 9 fixed responses.
+- Checks if certain keywords exist in user input.
+- Case-insensitive matching (all input converted to lowercase).
+- Simple Architecture no ai no memory.
+- Continuous loop until user types "exit".
+# BASIC CHATBOT 🤖
